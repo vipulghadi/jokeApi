@@ -3,8 +3,7 @@
 ## Project Overview
 
 This repository contains a REST API project built using Django for the backend and HTML, JavaScript, and CSS for the frontend. The main feature of this project is a Joke API that users can remotely access.
-![images](https://github.com/vipulghadi/jokeApi/assets/99540970/2a9ddc45-ecf8-48aa-bfb2-f0f2ee86fc9a)
-
+![drf-logo2](https://github.com/vipulghadi/jokeApi/assets/99540970/c922bbc1-9ab0-4fe3-bce9-99bf8be4cada)
 
 ## Features
 
